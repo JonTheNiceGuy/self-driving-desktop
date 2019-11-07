@@ -7,6 +7,8 @@ Drive your keyboard and mouse with text files.
 pip3 install self-driving-desktop
 ```
 
+**Please note:** This currently only supports Linux based operating systems. Pull requests to support other systems are welcomed!
+
 ### Running
 
 Playing a playlist:
